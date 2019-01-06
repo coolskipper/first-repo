@@ -1,0 +1,7 @@
+com/demo/h2/app/h2app/service/StudentService.class
+com/demo/h2/app/h2app/dto/StudentModel.class
+com/demo/h2/app/h2app/repo/StudentRepo.class
+com/demo/h2/app/h2app/controller/StudentController.class
+com/demo/h2/app/h2app/H2AppApplication.class
+com/demo/h2/app/h2app/entity/Student.class
+com/demo/h2/app/h2app/config/JerseyConfig.class
